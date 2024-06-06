@@ -1,7 +1,7 @@
-import React from "react";
+import React from 'react'
 
-function NoPage(){
-  return(
+function NoPage() {
+  return (
     <div>NoPage</div>
   )
 }
